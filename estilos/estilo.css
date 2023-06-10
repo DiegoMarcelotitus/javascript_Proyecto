@@ -1,0 +1,9 @@
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn{
+border-bottom: solid;
+  border-color: blue;
+}
